@@ -1,0 +1,18 @@
+################################################################################ 
+# Faculdade de Ciências e Tecnologia da Universidade de Coimbra                #
+# Departamento de Engenharia Informática                                       #
+# Unidade curricular: Introdução às Redes de Comunicação (2.ºAno / 1.º Sem.)   #
+# Alunos: Ricardo Cruz e Gilberto Rouxinol                                     #
+# Docentes: João P. Vilela e Tiago Cruz                                        #
+#                                                                              #
+# Projeto 2: Protocolo de Transferência de ficheiros com cache         2015/16 #
+#                                                                              #
+#                    Versões entregues no Inforestud@nte                       #
+#                                                                              #
+################################################################################
+
+
+
+versao_1 : versão cliente único
+
+versao_2 : versão multicliente (com threads)
